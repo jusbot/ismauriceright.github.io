@@ -1,4 +1,10 @@
-<fieldset class="ui-wheel-of-fortune">
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+  <body>
+  <fieldset class="ui-wheel-of-fortune">
   <ul>
     <li>$1000</li>
     <li>$2000</li>
@@ -15,3 +21,6 @@
   </ul>
   <button type="button">SPIN</button>
 </fieldset>
+  </body>
+</html>
+
