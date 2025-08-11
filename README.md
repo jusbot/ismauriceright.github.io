@@ -1,27 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="styles.css">
-  <script src="script.js"></script>
-</head>
-  <body>
-  <fieldset class="ui-wheel-of-fortune">
-  <ul>
-    <li>$1000</li>
-    <li>$2000</li>
-    <li>$3000</li>
-    <li>$4000</li>
-    <li>$5000</li>
-    <li>$6000</li>
-    <li>$7000</li>
-    <li>$8000</li>
-    <li>$9000</li>
-    <li>$10000</li>
-    <li>$11000</li>
-    <li>$12000</li>
-  </ul>
-  <button type="button">SPIN</button>
-</fieldset>
-  </body>
-</html>
+
 
